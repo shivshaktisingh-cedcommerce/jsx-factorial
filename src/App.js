@@ -1,7 +1,7 @@
 
 import './App.css';
  var number =8;
-function App() {
+const App=()=> {
   var txt=1;
  for(let i=number;i>1;i--){
     txt=txt*i;
